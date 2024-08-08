@@ -1,1 +1,2 @@
-# PRODIGY_CS_04
+Simple Keylogger
+Keylogger program that records and logs keystrokes.
